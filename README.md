@@ -21,20 +21,14 @@ To gain hands-on experience with:
 
 ## Screenshots
 
-### 1. Storage Account Overview  
+### 1. Storage Account Overview
 ![Storage Account Overview](01-storage-account-overview.png)
 
-### 2. Container Created ($web)  
-![Web Container](02-web-container.png)
+### 2. Static Website Live View
+![Static Website Live](02-static-website-live.png)
 
-### 3. Static Website Enabled  
-![Static Website Enabled](03-static-website-enabled.png)
-
-### 4. Index Page Output  
-![Hello From Azure](04-index-page.png)
-
-### 5. Error Page Preview  
-![Error Page](05-error-page.png)
+### 3. Error Page Preview
+![Error Page Preview](03-error-page-preview.png)
 
 ## Tools Used
 
